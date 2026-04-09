@@ -1,1 +1,1 @@
-# PalindromeCheckerApp
+# Week-01-and-02-problem-statements
